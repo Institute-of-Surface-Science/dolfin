@@ -24,6 +24,7 @@
 #ifndef __MESH_FUNCTION_H
 #define __MESH_FUNCTION_H
 
+#include <algorithm>
 #include <map>
 #include <vector>
 
